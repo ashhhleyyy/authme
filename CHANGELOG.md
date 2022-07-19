@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.0](https://github.com/axieum/authme/compare/v4.0.0...v4.1.0) (2022-07-19)
+
+
+### Features
+
+* add traditional Chinese translation ([#52](https://github.com/axieum/authme/issues/52)) ([423c495](https://github.com/axieum/authme/commit/423c4955c4394fba4f0840cc93bff6103c348b5d))
+
 ## [4.0.0](https://github.com/axieum/authme/compare/v3.1.0...v4.0.0) (2022-06-08)
 
 
